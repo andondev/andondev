@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andonvel or Andon Veledi
-- 👀 I’m interested in php, laravel, html, css, js, vuejs or react in other words Front - Ender 😂
+- 👀 I’m Front - Ender 😂
 - 🌱 I’m currently learning to improve my self
 - 📫 How to reach me at andonvel@gmail.com
 
